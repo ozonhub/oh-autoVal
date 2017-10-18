@@ -1,5 +1,10 @@
 # oh-autoVal
 
+Oh-autoVal
+Version 1.0.14
+Developed by Amal K Jose
+Published on 18th October, 2017
+
 Oh-autoVal is a free Form validation API based on jQuery. It is developed by Amal K Jose as part of project work. The first version of Oh-autoVal v1.0.0 was released on 17th October, 2017. Now it is in a developing stage. And so, there may have more frequent updates.
 
 Steps to implement API to your forms
@@ -19,9 +24,9 @@ Example:<br>
       &lt;!--Form elements --&gt;<br>
 &lt;/form&gt;<br>
 
-3. Add all required elements with class="oh-autoval av-format" and av-message="Error message".<br>
+3. Add all required elements with class="av-format" and av-message="Error message".<br>
 Example:<br>
-&lt;input type="text" name="email" class="oh-autoval av-email" av-message="Invalid email address"/&gt;<br>
+&lt;input type="text" name="email" class="av-email" av-message="Invalid email address"/&gt;<br>
 
 4. Add a submit button on your form.<br>
 Example:<br>

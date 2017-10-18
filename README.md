@@ -9,9 +9,9 @@ Steps to implement API to your forms
 &lt;-- Adding oh-autoVal css style --&gt;<br>
 &lt;link rel="stylesheet" type="text/css" href="https://rawgit.com/ozonhub/oh-autoVal/master/css/oh-autoval-style.css"&gt;<br>
 &lt;!-- Adding jQuery script. It must be before other script files --&gt;<br>
-&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"&gt;&lt;/script&gt;<br>
+&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" &gt; &lt;/script &gt; <br>
 &lt;!-- Adding oh-autoVal script file --&gt;<br>
-&lt;script src="https://rawgit.com/ozonhub/oh-autoVal/master/js/oh-autoval-script.js"&gt;&lt;/script&gt;<br>
+&lt;script src="https://rawgit.com/ozonhub/oh-autoVal/master/js/oh-autoval-script.js" &gt; &lt;/script &gt;<br>
 
 2. Add a Form with onsubmit="return" and class="oh-autoval-form".<br>
 Example:<br>
